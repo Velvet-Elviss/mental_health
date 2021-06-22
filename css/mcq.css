@@ -9,7 +9,8 @@
 } 
 body
 {
-    background-image:url("background\ quiz");
+    /* background-image:url("background\ quiz"); */
+    background-image:url("/images/background\ quiz");
     background-size:cover;
 }
 .main{

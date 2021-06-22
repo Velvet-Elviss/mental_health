@@ -3,7 +3,8 @@
 }
 body
 {
-    background-image:url("brain.jpg");
+    /* background-image:url("brain.jpg"); */
+    background-image:url("/images/brain.jpg");
     /* background-size:150px; */
     background-size: cover;
     background-repeat: no-repeat;
